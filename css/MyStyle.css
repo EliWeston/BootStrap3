@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bigger-font {
+	font-size:28px;
+}
+.swf-name {
+	font-size:18px;
+	text-align:center;
+}
+.port-headers {
+	font-size:28px;
+	text-align:center;
+	color:darkgray;
+}
+.new-dropdown {
+	background:none;
+	border:none;
+	padding-top: 8px;
+	color:lightslategray;
+}
+.new-nav {
+		color:lightslategray !important;
+}
+.align-drop{
+	Padding-right: 40px !important;
+}
+.contact-con{
+	background-color: black;
+}
+.contact-body {
+	font-size:18px;
+	text-align:left;
+	color:azure;
+	padding-left: 75px;
+}
+.white-link{
+	color:azure !important;
+}
+.list-padding{
+	padding-bottom: 30px;
+}
